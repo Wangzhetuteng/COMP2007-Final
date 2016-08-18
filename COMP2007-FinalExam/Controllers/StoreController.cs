@@ -5,6 +5,12 @@ using System.Web;
 using System.Web.Mvc;
 using COMP2007_FinalExam.Models;
 
+/* Name: Yandong Wang
+ * Number: 200277628
+ * Date: 8/18/2016
+ * Version: 0.1
+ * Description: Provide an Album List page,	an Artist list Page, and a Genre List page.
+ */
 namespace COMP2007_S2016_Lesson12C.Controllers
 {
 

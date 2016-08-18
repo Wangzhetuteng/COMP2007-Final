@@ -1,3 +1,9 @@
+/* Name: Yandong Wang
+ * Number: 200277628
+ * Date: 8/18/2016
+ * Version: 0.1
+ * Description: Provide an Album List page,	an Artist list Page, and a Genre List page.
+ */
 namespace COMP2007_FinalExam.Models
 {
     using System;

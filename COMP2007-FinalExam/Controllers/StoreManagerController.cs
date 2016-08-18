@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Name: Yandong Wang
+ * Number: 200277628
+ * Date: 8/18/2016
+ * Version: 0.1
+ * Description: Provide an Album List page,	an Artist list Page, and a Genre List page.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
