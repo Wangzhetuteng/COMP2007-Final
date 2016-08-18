@@ -1,0 +1,19 @@
+﻿@using COMP2007_FinalExam.Models
+@model IEnumerable<Album>
+
+@{
+    ViewBag.Title = "Album";
+
+}
+
+<h3>Browse Albums</h3>
+<p>
+    Select from @Model.Count()
+    albums:
+</p>
+<ul>
+    @foreach (Album item in Model)
+    {
+        <li>@Html.ActionLink(item.Name, "Browse", new { album = item.Name })</li>
+    }
+</ul>
